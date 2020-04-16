@@ -20,5 +20,5 @@ When I have `hello world` highlighted and I click it, the contextual addin with 
 
 # What actually happens
 - I have both `hello world` texts highlighted, which is good
-- When I click `hello world` in the first line, the contextual addin with taskpane.html loads fine, this is still good
-- When I click `hello world` in the second line, the contextual addin doesnt show and nothing happens.
+- When I click `hello world` in the first line (with normal spaces from the first line of codepen), the contextual addin with taskpane.html loads fine, this is still good
+- When I click `hello world` in the second line (with non breaking space from the second line of codepen), the contextual addin doesnt show and nothing happens.
